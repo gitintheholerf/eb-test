@@ -1,0 +1,13 @@
+branch-defaults:
+  master:
+    environment: eb-test-env
+    group_suffix: null
+global:
+  application_name: eb-test
+  branch: null
+  default_ec2_keyname: null
+  default_platform: PHP 7.0
+  default_region: us-east-1
+  profile: eb-cli
+  repository: null
+  sc: git
